@@ -223,6 +223,10 @@ body {
         font-size: 1.4rem;
     }
 
+    #form-container {
+        margin-top: 400px;
+    }
+
     #form-inner {
         margin: 2rem;
         padding: 2rem;
