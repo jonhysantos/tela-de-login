@@ -179,7 +179,7 @@ body {
 
 /*Responsivo*/
 
-@media (max-width:4500px) {
+@media (max-width:450px) {
     body{
         flex-direction: column;
     }
